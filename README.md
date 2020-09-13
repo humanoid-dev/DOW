@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/goldentg/DOW)](https://repl.it/github/goldentg/DOW)
 # The "Destroyer Of Worlds" Discord Bot
 This Discord bot will completely destroy any server you want, all you need is the targets bot token. 
 
